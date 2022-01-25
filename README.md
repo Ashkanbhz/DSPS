@@ -1,6 +1,6 @@
 # DSPS Competition
 
-In order to increase the accuracy of the model, several modifications had been made. These modifications had been fully described in "Ashkan_bhz.iphyton" file
+In order to increase the accuracy of the model, several modifications had been made. These modifications had been fully described in "Ashkan_bhz.ipynb" file
 
 
 The Folder of the trained model could be access by the following link:
