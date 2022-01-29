@@ -1,6 +1,6 @@
 # DSPS Competition
 
-In order to increase the accuracy of the model, several modifications had been made. These modifications had been fully described in "Ashkan_bhz.ipynb" file
+In order to increase the accuracy of the model, several modifications had been made. These modifications had been fully described in "Ashkan.ipynb" file
 
 
 
